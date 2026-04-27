@@ -5,6 +5,7 @@
 The system is designed around two main applications:
 
 - **JACI Backend** — a Spring Boot application that provides the administrative web panel, REST API synchronization endpoints, authentication, database access.
+  
 - **JACI Android** — a native Android application used for offline field data collection, later synchronized with the backend API.
 
 The goal of this project is to demonstrate a complete real-world system using modern backend architecture, mobile development, relational databases, containerized infrastructure, and clean project organization usimg hexagonal architecture.
